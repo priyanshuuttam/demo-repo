@@ -1,2 +1,2 @@
-## DEMO
+## Demo
 this is readme
